@@ -11,7 +11,6 @@ Used Pusher to live message transmission.
 
 
 
-
 # To run:
 
 inside the whatsapp-backend folder:
